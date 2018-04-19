@@ -11,7 +11,7 @@ const cli = meow(`
 	Usage
 	  $ github-search-repos
 	  $ github-search-repos gulp
-	  $ github-search-repos gulp+languge:javascript
+	  $ github-search-repos gulp+language:javascript
 
 	Options
 	  -i, --interactive  Show results in interactive interface
